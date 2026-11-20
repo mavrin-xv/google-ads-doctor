@@ -1,0 +1,8 @@
+﻿Campaign report
+"November 16, 2026 - November 22, 2026"
+Campaign,Campaign type,Bid strategy type,Clicks,Impr.,Cost,Conversions,Search lost IS (budget)
+Search - Emergency,Search,Maximize conversions,74,930,540.10,9.00,10.20%
+Search - Drain & Water Heater,Search,Manual CPC,80,1500,440.50,5.00,35.00%
+Brand,Search,Target impression share,6,20,11.10,1.00,1.00%
+PMax - Local,Performance Max,Maximize conversions,50,4300,210.00,5.00,--
+Total: Account,--,--,--,--,--,--,--

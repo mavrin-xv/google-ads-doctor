@@ -1,0 +1,8 @@
+Keyword,Match type,Level
+hiring,Phrase,list: Jobs
+jobs,Phrase,list: Jobs
+free,Broad,campaign: Search - Emergency
+cost,Phrase,campaign: Search - Drain & Water Heater
+plumber,Phrase,list: Brand protect
+[how to unclog a drain],Exact,campaign: Search - Drain & Water Heater
+diy,Phrase,list: Research

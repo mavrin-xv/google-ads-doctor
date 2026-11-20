@@ -1,0 +1,13 @@
+﻿Conversion actions
+"November 1, 2026 - November 30, 2026"
+Conversion action,Conversion source,Conversion category,Action optimization,Count,Tracking status,Click-through conversion window,Conversions,All conv.,Conv. value
+Calls from ads,Calls from ads,Phone call lead,Primary,One,Recording conversions,30 days,14.00,14.00,0.00
+Website - Phone tap,Website,Phone call lead,Primary,Every,Recording conversions,30 days,31.00,31.00,0.00
+Website - Quote form,Website,Submit lead form,Primary,One,Recording conversions,30 days,12.00,12.00,0.00
+GA4 generate_lead (web),Google Analytics 4,Submit lead form,Primary,Every,Recording conversions,30 days,13.00,13.00,0.00
+Careers - application sent,Website,Submit lead form,Primary,One,Recording conversions,30 days,6.00,6.00,0.00
+Old thank-you page,Website,Submit lead form,Primary,One,Inactive,30 days,0.00,0.00,0.00
+Newsletter signup,Website,Sign-up,Secondary,One,Recording conversions,30 days,0.00,4.00,0.00
+Purchase,Website,Purchase,Primary,Every,Unverified,30 days,0.00,0.00,0.00
+Local actions - Directions,Google hosted,Get directions,Primary,Every,Recording conversions,30 days,22.00,22.00,0.00
+Offline - paid jobs,Import from clicks,Converted lead,Secondary,One,No recent conversions,90 days,0.00,2.00,"1,900.00"

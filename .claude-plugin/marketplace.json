@@ -1,0 +1,15 @@
+{
+  "name": "google-ads-doctor",
+  "plugins": [
+    {
+      "name": "google-ads-doctor",
+      "source": "./",
+      "description": "Finds and fixes where Google Ads money leaks: search term n-gram mining, negative keyword checks that catch negatives blocking buyers, conversion action cleanup, a ten-check structure audit and a weekly check with a decisions log. Works on CSV exports, with an optional read-only API pull.",
+      "version": "0.1.0"
+    }
+  ],
+  "owner": {
+    "name": "Artem Mavrin",
+    "url": "https://github.com/mavrin-xv"
+  }
+}

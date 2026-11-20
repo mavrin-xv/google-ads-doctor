@@ -1,0 +1,72 @@
+﻿Search terms report
+"November 1, 2026 - November 30, 2026"
+Search term,Match type,Added/Excluded,Campaign,Ad group,Clicks,Impr.,CTR,Currency code,Avg. CPC,Cost,Conversions,Cost / conv.
+emergency plumber near me,Phrase match,Added,Search - Emergency,Emergency,61,540,11.30%,USD,6.72,410.20,9.00,45.58
+24 hour plumber,Exact match,Added,Search - Emergency,Emergency,38,300,12.67%,USD,6.91,262.75,5.00,52.55
+plumber near me,Phrase match (close variant),None,Search - Emergency,Emergency,80,910,8.79%,USD,6.52,521.40,7.00,74.49
+emergency plumbers near me,Phrase match (close variant),None,Search - Emergency,Emergency,14,120,11.67%,USD,6.86,96.10,2.00,48.05
+burst pipe repair,Phrase match,None,Search - Emergency,Leaks,17,140,12.14%,USD,7.14,121.30,3.00,40.43
+leaking pipe under sink,Broad match,None,Search - Emergency,Leaks,9,130,6.92%,USD,6.49,58.40,1.00,58.40
+free estimate plumber,Broad match,None,Search - Emergency,Emergency,9,95,9.47%,USD,6.78,61.00,2.00,30.50
+cheap plumber,Broad match,None,Search - Emergency,Emergency,12,160,7.50%,USD,5.85,70.15,0.00,--
+plumber jobs,Broad match,None,Search - Emergency,Emergency,14,220,6.36%,USD,6.31,88.30,0.00,--
+plumbing jobs near me,Broad match,None,Search - Emergency,Emergency,11,180,6.11%,USD,6.55,72.05,0.00,--
+plumbing job openings,Broad match,None,Search - Emergency,Emergency,4,60,6.67%,USD,5.78,23.10,0.00,--
+plumber salary,Broad match,None,Search - Emergency,Emergency,8,140,5.71%,USD,5.95,47.60,0.00,--
+plumbing apprenticeship,Broad match,None,Search - Emergency,Emergency,10,150,6.67%,USD,6.12,61.20,0.00,--
+plumber hiring,Broad match,Excluded,Search - Emergency,Emergency,6,90,6.67%,USD,5.90,35.40,0.00,--
+acme rooter,Broad match,None,Search - Emergency,Emergency,9,120,7.50%,USD,6.48,58.30,0.00,--
+acme rooter reviews,Broad match,None,Search - Emergency,Emergency,3,40,7.50%,USD,6.40,19.20,0.00,--
+pool plumbing repair,Broad match,None,Search - Emergency,Leaks,5,70,7.14%,USD,5.49,27.45,0.00,--
+water heater replacement,Exact match,Added,Search - Drain & Water Heater,Water heater,41,380,10.79%,USD,8.30,340.10,4.00,85.03
+water heater replacement cost,Phrase match,None,Search - Drain & Water Heater,Water heater,19,210,9.05%,USD,7.93,150.70,2.00,75.35
+tankless water heater install,Phrase match,None,Search - Drain & Water Heater,Water heater,22,190,11.58%,USD,8.65,190.30,2.00,95.15
+tankless water heater for sale,Broad match,None,Search - Drain & Water Heater,Water heater,13,260,5.00%,USD,5.72,74.40,0.00,--
+water heaters for sale,Broad match,None,Search - Drain & Water Heater,Water heater,7,150,4.67%,USD,5.87,41.10,0.00,--
+water heater parts,Broad match,None,Search - Drain & Water Heater,Water heater,11,230,4.78%,USD,6.02,66.25,0.00,--
+water heater reviews,Broad match,None,Search - Drain & Water Heater,Water heater,8,200,4.00%,USD,5.66,45.30,0.00,--
+rv water heater,Broad match,None,Search - Drain & Water Heater,Water heater,6,110,5.45%,USD,6.03,36.20,0.00,--
+diy water heater flush,Broad match,None,Search - Drain & Water Heater,Water heater,5,90,5.56%,USD,5.68,28.40,0.00,--
+how to replace water heater element,Broad match,None,Search - Drain & Water Heater,Water heater,6,120,5.00%,USD,5.52,33.10,0.00,--
+drain cleaning service,Phrase match,Added,Search - Drain & Water Heater,Drain,30,260,11.54%,USD,7.69,230.80,4.00,57.70
+clogged drain plumber,Broad match,None,Search - Drain & Water Heater,Drain,13,110,11.82%,USD,7.32,95.20,2.00,47.60
+sewer line repair cost,Broad match,None,Search - Drain & Water Heater,Drain,16,170,9.41%,USD,8.79,140.60,1.00,140.60
+how to unclog a drain,Broad match,None,Search - Drain & Water Heater,Drain,12,310,3.87%,USD,4.52,54.30,0.00,--
+how to unclog a toilet,Broad match,None,Search - Drain & Water Heater,Drain,7,200,3.50%,USD,4.56,31.90,0.00,--
+how to fix a leaking pipe,Broad match,None,Search - Drain & Water Heater,Drain,8,190,4.21%,USD,4.92,39.40,0.00,--
+drain snake rental,Broad match,None,Search - Drain & Water Heater,Drain,6,100,6.00%,USD,5.22,31.30,0.00,--
+plumbing courses online,Broad match,None,Search - Drain & Water Heater,Drain,4,80,5.00%,USD,5.65,22.60,0.00,--
+car water pump repair,Broad match,None,Search - Drain & Water Heater,Drain,3,50,6.00%,USD,6.03,18.10,0.00,--
+northwind plumbing,Exact match,Added,Brand,Brand,22,60,36.67%,USD,1.82,40.10,3.00,13.37
+northwind plumbing reviews,Phrase match,None,Brand,Brand,4,20,20.00%,USD,1.57,6.30,1.00,6.30
+kitchen sink service,Broad match,None,Search - Drain & Water Heater,Misc,0,21,0.00%,USD,--,0.00,0.00,--
+kitchen sink install,Broad match,None,Search - Emergency,Misc,0,16,0.00%,USD,--,0.00,0.00,--
+kitchen sink replacement,Broad match,None,Search - Drain & Water Heater,Misc,3,40,7.50%,USD,4.78,14.34,0.00,--
+garbage disposal install,Broad match,None,Search - Emergency,Misc,0,4,0.00%,USD,--,0.00,0.00,--
+garbage disposal near me,Broad match,None,Search - Emergency,Misc,1,33,3.03%,USD,5.66,5.66,0.00,--
+garbage disposal service,Broad match,None,Search - Emergency,Misc,2,45,4.44%,USD,6.74,13.48,0.00,--
+toilet replacement,Broad match,None,Search - Drain & Water Heater,Misc,0,24,0.00%,USD,--,0.00,0.00,--
+toilet leaking,Broad match,None,Search - Drain & Water Heater,Misc,3,50,6.00%,USD,7.61,22.83,0.00,--
+toilet repair,Broad match,None,Search - Emergency,Misc,2,29,6.90%,USD,5.50,10.99,0.00,--
+shower drain fix,Broad match,None,Search - Emergency,Misc,2,30,6.67%,USD,7.42,14.84,0.00,--
+shower drain near me,Broad match,None,Search - Drain & Water Heater,Misc,3,52,5.77%,USD,5.16,15.48,0.00,--
+shower drain replacement,Broad match,None,Search - Drain & Water Heater,Misc,0,13,0.00%,USD,--,0.00,0.00,--
+sump pump service,Broad match,None,Search - Drain & Water Heater,Misc,3,54,5.56%,USD,4.78,14.33,0.00,--
+sump pump fix,Broad match,None,Search - Drain & Water Heater,Misc,0,12,0.00%,USD,--,0.00,0.00,--
+sump pump replacement,Broad match,None,Search - Drain & Water Heater,Misc,3,50,6.00%,USD,8.05,24.14,0.00,--
+gas line leaking,Broad match,None,Search - Emergency,Misc,3,62,4.84%,USD,4.74,14.21,0.00,--
+gas line fix,Broad match,None,Search - Drain & Water Heater,Misc,1,17,5.88%,USD,6.09,6.09,0.00,--
+gas line repair,Broad match,None,Search - Emergency,Misc,1,41,2.44%,USD,6.30,6.30,0.00,--
+faucet plumber,Broad match,None,Search - Drain & Water Heater,Misc,2,34,5.88%,USD,7.33,14.65,0.00,--
+faucet near me,Broad match,None,Search - Emergency,Misc,1,15,6.67%,USD,4.83,4.83,0.00,--
+faucet fix,Broad match,None,Search - Drain & Water Heater,Misc,3,39,7.69%,USD,7.82,23.47,0.00,--
+bathtub leaking,Broad match,None,Search - Emergency,Misc,2,49,4.08%,USD,6.94,13.88,0.00,--
+bathtub replacement,Broad match,None,Search - Drain & Water Heater,Misc,0,15,0.00%,USD,--,0.00,0.00,--
+bathtub fix,Broad match,None,Search - Drain & Water Heater,Misc,3,40,7.50%,USD,6.08,18.23,0.00,--
+pipe replacement,Broad match,None,Search - Emergency,Misc,3,42,7.14%,USD,5.15,15.45,0.00,--
+pipe repair,Broad match,None,Search - Drain & Water Heater,Misc,0,22,0.00%,USD,--,0.00,0.00,--
+pipe install,Broad match,None,Search - Drain & Water Heater,Misc,0,7,0.00%,USD,--,0.00,0.00,--
+basement fix,Broad match,None,Search - Drain & Water Heater,Misc,2,41,4.88%,USD,6.39,12.79,0.00,--
+basement leaking,Broad match,None,Search - Emergency,Misc,3,62,4.84%,USD,6.44,19.31,0.00,--
+basement near me,Broad match,None,Search - Emergency,Misc,2,43,4.65%,USD,7.46,14.92,0.00,--
+Total: Account,--,--,--,--,--,--,--,--,--,--,--,--

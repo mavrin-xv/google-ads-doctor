@@ -1,0 +1,9 @@
+# credentials and real account data never go in the repo
+.env
+.env.*
+data/
+week/
+*.secret
+__pycache__/
+*.pyc
+.DS_Store

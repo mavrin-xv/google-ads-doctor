@@ -1,0 +1,9 @@
+﻿Campaign report
+"November 1, 2026 - November 30, 2026"
+Campaign,Campaign type,Campaign status,Bid strategy type,Budget,Networks,Clicks,Impr.,Cost,Conversions,Search impr. share,Search lost IS (rank),Search lost IS (budget)
+Search - Emergency,Search,Enabled,Maximize conversions,60.00,Google Search,312,3900,"2,310.40",35.00,41.20%,47.30%,11.50%
+Search - Drain & Water Heater,Search,Enabled,Manual CPC,40.00,Google Search; Search Partners; Display Network,331,6500,"1,860.20",18.00,22.10%,38.40%,39.50%
+Brand,Search,Enabled,Target impression share,10.00,Google Search,26,80,46.40,4.00,92.00%,6.00%,2.00%
+PMax - Local,Performance Max,Enabled,Maximize conversions,30.00,--,210,18000,900.00,22.00,--,--,--
+Search - Spring promo,Search,Enabled,Maximize clicks,15.00,Google Search,0,0,0.00,0.00,--,--,--
+Total: Account,--,--,--,--,--,--,--,--,--,--,--,--
